@@ -131,7 +131,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr10p",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/hdr10_plus.png",
@@ -144,7 +144,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr10",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/hdr10.png",
@@ -157,7 +157,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/hdr.png",
@@ -170,7 +170,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-imax-e",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/imax_enhanced.png",
@@ -183,7 +183,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-imax",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/imax.png",
@@ -196,7 +196,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-at-dv",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/vis-atmos-dv.png",
@@ -209,7 +209,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-th-dv",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/vis-truehd-dv.png",
@@ -222,7 +222,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-dp-dv",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/vis-ddp-dv.png",
@@ -235,7 +235,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-dd-dv",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/vis-dd-dv.png",
@@ -248,7 +248,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/vis-dv.png",
@@ -261,7 +261,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFFF9800",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-sdr",
       "imageURL": "https://raw.githubusercontent.com/Bluestack69/MagicMania/refs/heads/main/GitHub/SDR_transparent_4x.png",
